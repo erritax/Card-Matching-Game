@@ -1,8 +1,3 @@
-# Errita Xu
-# Friday, March 10, 2023
-# A6 - Concentration Card Matching Game
-# To create a single screen, interactive, and useful app using GUI and widgets
-
 #import important libraries
 import tkinter
 from tkinter import *
